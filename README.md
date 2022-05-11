@@ -1,3 +1,3 @@
 ## Peer-graded Assignment: Bash, Make, Git, and GitHub
-\nDate: Wed May 11 13:36:16 PST 2022
-\nguessinggame.sh contains  27
+Date: Wed May 11 13:42:08 PST 2022 \
+guessinggame.sh contains  27 lines

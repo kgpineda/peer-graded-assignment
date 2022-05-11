@@ -1,5 +1,5 @@
 README.md:
 	echo "## Peer-graded Assignment: Bash, Make, Git, and GitHub" > README.md
-	echo "\nDate: "`date` >> README.md
-	echo "\nguessinggame.sh contains " `cat guessinggame.sh | wc -l` >> README.md
+	echo "Date: "`date` \\ >> README.md
+	echo "guessinggame.sh contains" `cat guessinggame.sh | wc -l` lines >> README.md
 	
